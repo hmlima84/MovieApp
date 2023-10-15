@@ -1,0 +1,33 @@
+div{
+    margin-top: 1em;
+}
+
+.error {
+    color: crimson;
+}
+
+form {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.formbutton{
+    margin-left: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.movie-details {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.rmvbutton{
+    margin-left: 1em;
+    font-weight: bold;
+    padding: 0em .75em;
+}
+
+body{
+    background-color: #d4bf9d;
+}
